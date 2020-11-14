@@ -1,0 +1,8 @@
+input('Ingrese su nombre: ')
+input('Ingrese su apellido: ')
+print(input('Ingrese su nombre: '))
+print(input('Ingrese su apellido: '))
+print('Nombre', input('Ingrese su nombre: '))
+print('Apellido', input('Ingrese su apellido: '))
+print('Nombre', input('Ingrese su nombre: '), sep=': ')
+print('Apellido', input('Ingrese su apellido: '), sep=': ')

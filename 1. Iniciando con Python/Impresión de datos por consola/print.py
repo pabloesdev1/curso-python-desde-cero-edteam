@@ -1,0 +1,6 @@
+print('Bienvenidos')
+print("Bienvenidos")
+print('Bienvenidos', end='\n')
+print('al curso')
+print('Bienvenidos', 'al curso', 'de Python', sep='.')
+print('Bienvenidos', 'al curso', 'de Python', sep='\n')
